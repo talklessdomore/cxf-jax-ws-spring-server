@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cxf-jax-ws-spring-server:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="cxf-jax-ws-spring-server-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="cxf-jax-ws-spring-server:war exploded" />
+    </root>
+  </artifact>
+</component>
